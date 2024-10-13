@@ -1,0 +1,4 @@
+[core]
+    remote = remotedatarepo
+['remote "remotedatarepo"']
+    url = C:\Users\sprakash90\AppData\Local\Temp\data_version
